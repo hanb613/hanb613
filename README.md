@@ -2,7 +2,7 @@
   
 <!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi&nbsp;there👋&fontSize=48&fontAlign=80&rotate=12&fontAlignY=15&desc=YeongSeo's&nbsp;GitHub!&descAlign=80&descAlignY=35) <br>  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=38&desc=YeongSeo's&nbsp;%20GitHub!&descAlignY=53&descAlign=59)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Welcome&fontSize=70&animation=fadeIn&fontAlignY=38&desc=YeongSeo's&nbsp;%20GitHub!&descAlignY=53&descAlign=57)
  <br>  
 
 
