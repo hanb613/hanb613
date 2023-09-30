@@ -1,12 +1,10 @@
 <div align=center>
   
-<!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi&nbsp;there👋&fontSize=48&fontAlign=80&rotate=12&fontAlignY=15&desc=YeongSeo's&nbsp;GitHub!&descAlign=80&descAlignY=35) <br>  -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Welcome&fontSize=70&animation=fadeIn&fontAlignY=38&desc=YeongSeo's&nbsp;%20GitHub!&descAlignY=53&descAlign=57)
  <br>  
 
-
 ### 🛠 Tech Stack 🛠
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
